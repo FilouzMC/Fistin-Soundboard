@@ -6,8 +6,8 @@ Fistin Soundboard est un repo contenant de multiples sons rigolos (meme etc).
 
 ## Comment l'utiliser
 - Installez Git : https://git-scm.com/
-- Faite dans l'emplacement souhaité : `git clone https://github.com/FilouzMC/Fistin-Soundboard`
-- Si vous souhaitez mettre à jour le soundpack, faites la commande `git pull`
+- Faites dans l'emplacement souhaité : `git clone https://github.com/FilouzMC/Fistin-Soundboard`
+- Si vous souhaitez mettre à jour le soundpack, faites la commande : `git pull`
 
 ## Logiciel de sourdboard conseillé
 **Soundux** est un logiciel gratuit et open source : https://soundux.rocks/
